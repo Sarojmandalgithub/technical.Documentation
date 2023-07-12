@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    height: 20vh;
+    width: 100vw;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main {
+    height: 90vh;
+    width: 100vw;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+.left_side {
+    height: 80vh;
+    width: 40vw;
+    border: 10px;
+    text-align: justify;
+}
+
+a {
+    color: black;
+}
+
+.right_side {
+    height: 80vh;
+    width: 60vw;
+}
+
+
